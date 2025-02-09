@@ -1,5 +1,7 @@
 export default function() {
     return(
-        <h1>share</h1>
+       <main>
+         <h1>share</h1>
+       </main>
     );
 }

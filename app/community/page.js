@@ -1,5 +1,7 @@
 export default function() {
     return(
-        <h1>Community</h1>
+       <main>
+         <h1>Community</h1>
+       </main>
     );
 }
